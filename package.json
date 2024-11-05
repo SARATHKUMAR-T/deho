@@ -1,0 +1,24 @@
+{
+  "name": "deho",
+  "version": "1.0.0",
+  "description": "``` deno task start ```",
+  "main": "index.js",
+  "dependencies": {
+    "hono": "^4.6.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy:vercel": "sh deploy-vercel.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SARATHKUMAR-T/deho.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SARATHKUMAR-T/deho/issues"
+  },
+  "homepage": "https://github.com/SARATHKUMAR-T/deho#readme"
+}
